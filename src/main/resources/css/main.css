@@ -1,0 +1,22 @@
+* {
+   -fx-base-color: rgb(31.0, 31.0, 31.0);
+   -fx-red-color:  rgb(232.0, 17.0, 35.0);
+}
+
+#main {
+	-fx-background-color: rgba(66, 158, 244, 0.9);
+}
+
+#errorIcon {
+	-fx-icon-color: rgb(232.0, 17.0, 35.0);
+	-fx-icon-size: 32.0px;
+}
+
+#cloudIcon {
+	-fx-icon-size: 32.0px;
+}
+
+.we-icon {
+	-fx-icon-size: 20.0px;
+	-fx-icon-color: -fx-base-color;
+}
